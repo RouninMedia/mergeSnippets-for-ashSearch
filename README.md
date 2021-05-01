@@ -17,7 +17,7 @@ $My_Array = [
 ];
 ```
 
-**`mergeSnippets($Snippets_Array)`** will return:
+**`mergeSnippets()`** will return:
 
 ```
 $My_Processed_Array = [
