@@ -1,5 +1,32 @@
 # mergeSnippets for ashSearch
-**mergeSnippets** intelligently concatenates overlapping search snippets identified by `ashSearch`.
+**`mergeSnippets()`** intelligently concatenates overlapping search snippets identified by `ashSearch`.
+
+In an array of elements, each element represents an individual snippet.
+
+When applied to this array:
+
+```
+$My_Array = [
+
+  'The quick',
+  'quick brown',
+  'quick brown fox',
+  'jumps over the',
+  'over the',
+  'lazy dog',
+];
+```
+
+**`mergeSnippets($Snippets_Array)`** will return:
+
+```
+$My_Processed_Array = [
+
+  'The quick brown fox',
+  'jumps over the',
+  'lazy dog',
+];
+```
 
 
 ____
