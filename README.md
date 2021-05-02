@@ -11,7 +11,7 @@ _____
 
 When applied to this array:
 
-```
+```php
 $My_Array = [
 
   'The quick',
@@ -25,7 +25,7 @@ $My_Array = [
 
 **`mergeSnippets()`** will return:
 
-```
+```php
 $My_Processed_Array = [
 
   'The quick brown fox',
@@ -39,7 +39,7 @@ ____
 
 ## `mergeSnippets()` function
 
-```
+```php
 
 function mergeSnippets($Snippets_Array) {
     
