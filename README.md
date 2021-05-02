@@ -1,9 +1,9 @@
 # mergeSnippets for ashSearch
-**`mergeSnippets()`** intelligently concatenates overlapping search snippets identified by `ashSearch`.
-
-In an array of elements, each element represents an individual snippet.
+**`mergeSnippets()`** processes an array of elements, in which each element represents an individual text-snippet and intelligently concatenates overlapping text-snippets.
 
 **`mergeSnippets()`** is a core function of `ashSearch`.
+
+`ashSearch` uses the `mergeSnippets()` function to intelligently concatenate the overlapping search snippets it identifies.
 
 _____
 
