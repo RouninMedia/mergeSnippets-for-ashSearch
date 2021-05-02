@@ -3,6 +3,12 @@
 
 In an array of elements, each element represents an individual snippet.
 
+**`mergeSnippets()`** is a core function of `ashSearch`.
+
+_____
+
+## Example of the `mergeSnippets()` function in action:
+
 When applied to this array:
 
 ```
