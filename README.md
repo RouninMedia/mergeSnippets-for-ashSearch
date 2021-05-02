@@ -3,7 +3,7 @@
 
 **`mergeSnippets()`** is a core function of `ashSearch`.
 
-`ashSearch` uses the `mergeSnippets()` function to intelligently concatenate the overlapping search snippets it identifies.
+`ashSearch` uses the **`mergeSnippets()`** function to intelligently concatenate the overlapping search snippets it identifies.
 
 _____
 
