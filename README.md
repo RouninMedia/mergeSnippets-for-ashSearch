@@ -1,9 +1,9 @@
-# mergeSnippets for ashSearch
+# mergeSnippets for ashSiteSearch
 **`mergeSnippets()`** processes an array of elements, in which each element represents an individual text-snippet and intelligently concatenates overlapping text-snippets.
 
 **`mergeSnippets()`** is a core function of `ashSearch`.
 
-`ashSearch` uses the **`mergeSnippets()`** function to intelligently concatenate the overlapping search snippets it identifies.
+`ashSiteSearch` uses the **`mergeSnippets()`** function to intelligently concatenate the overlapping search snippets it identifies.
 
 _____
 
@@ -90,8 +90,8 @@ ____
 
 ## Background Information...
 
-### What is `ashSearch`?
-`ashSearch` is the standard Search Module in `ash`.
+### What is `ashSiteSearch`?
+`ashSiteSearch` is the standard SiteSearch Module in `ash`.
 
 
 ### What is `ash`?
